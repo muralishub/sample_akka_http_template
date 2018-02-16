@@ -1,0 +1,15 @@
+target/
+.idea/
+!.idea/runConfigurations
+.idea/runConfigurations/*
+project/target/
+.idea_modules/
+.runenv
+
+# frontend
+bower_components/
+.sass-cache/
+node_modules/
+npm-debug.log
+webapp/src/webapp/static/css/
+webapp/src/webapp/static/js/
